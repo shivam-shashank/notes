@@ -1,0 +1,38 @@
+name: notes
+description: A new Flutter Notes project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  # state management
+  flutter_bloc: ^7.3.0
+  equatable: ^2.0.3
+  # firebase
+  firebase_auth: ^3.1.2
+  cloud_firestore: ^2.5.3
+  # service locator
+  get_it: ^7.2.0
+  # date format
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.4
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/

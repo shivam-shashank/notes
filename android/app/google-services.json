@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027402024214",
+    "project_id": "notes-17b0d",
+    "storage_bucket": "notes-17b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027402024214:android:200cd95d0100173dcb7c37",
+        "android_client_info": {
+          "package_name": "com.brighterbee.tech.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027402024214-g7712a83of34pbh61o8eobe4abmsn9v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhYQcVK4E0BzCYAcQoU5BboHkg2Gxxr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027402024214-g7712a83of34pbh61o8eobe4abmsn9v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
